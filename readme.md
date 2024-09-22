@@ -1,4 +1,6 @@
-### **Spesification**:
+# phpmynewsportal
+
+### **Specification**:
 
 1. Codeigniter v3
 2. Bootstrap 4
